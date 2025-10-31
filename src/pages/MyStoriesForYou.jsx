@@ -64,7 +64,7 @@ Rencana Allah memang tak selalu mudah dimengerti, tapi selalu berakhir indah. Se
 Karena kadang, perjalanan menuju mimpi bukan tentang seberapa cepat kita sampai, tapi seberapa kuat kita bertahan saat semua pintu terasa tertutup.
 Dan aku belajar satu hal: langit nggak pernah menutup jalan bagi orang yang mau terus berjalan.`, 
     
-    musicUrl: "/music/videoplayback.mp3"
+    musicUrl: "https://pgvjmlwpbzq5dqte.public.blob.vercel-storage.com/videoplayback.mp3"
   }
 ];
 
