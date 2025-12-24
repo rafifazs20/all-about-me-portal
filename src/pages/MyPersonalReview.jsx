@@ -58,18 +58,19 @@ export default function MyPersonalReview() {
               
               <h4 className="text-xl font-semibold text-white mb-2 font-orbitron">Instruksi Penilaian</h4>
               <p className="text-lg text-graphite-silver mb-8">
-                Halaman ini bersifat transparan. Skor akhir akan diperbarui secara otomatis setelah proses 
-                <strong> Peer-Assessment</strong> manual dilakukan oleh rekan sejawat menggunakan kriteria rubrik yang berlaku.
+                Halaman ini bersifat transparan. Skor akhir akan diperbarui setelah proses 
+                <strong> Peer-Assessment</strong> manual dilakukan oleh rekan menggunakan kriteria rubrik yang berlaku.
               </p>
               
               <a 
-                href="/files/Peer_Review_UTS.xlsx" 
-                download="Peer_Review_UTS.xlsx" 
+                href="https://docs.google.com/spreadsheets/d/1ZWl8EUcYPDZgJma_ZEt4RUNo3dfSJ9w7w5c5PiBT6vo/edit?usp=sharing" 
+                target="_blank" 
+                rel="noopener noreferrer"
                 className="inline-block w-full md:w-auto text-center px-8 py-3 
                            rounded-lg bg-electric-cyan text-midnight-black 
-                           font-semibold hover:bg-white transition-colors duration-300"
+                           font-semibold hover:bg-white transition-all duration-300"
               >
-                Download Template Peer Review (UTS)
+                Spreadsheet Peer Assessment UTS
               </a>
             </div>
           </div>

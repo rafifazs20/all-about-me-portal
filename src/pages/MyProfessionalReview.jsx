@@ -53,13 +53,14 @@ export default function MyProfessionalReview() {
             </div>
 
             <a 
-              href="/files/UAS-5_Skor.xlsx" 
-              download="UAS-5_Skor.xlsx" 
+              href="https://docs.google.com/spreadsheets/d/1rvyf-dvVSEJNyX_Fw1SHmgxzua498tMiVNwSqwKihpg/edit?usp=sharing" 
+              target="_blank" 
+              rel="noopener noreferrer"
               className="inline-block w-full md:w-auto text-center px-8 py-3 
                          rounded-lg bg-electric-cyan text-midnight-black 
                          font-semibold hover:bg-white transition-all duration-300 mb-6"
             >
-              Download Template Peer Review (UAS)
+              Spreadsheet Peer Assessment UAS
             </a>
 
             <p className="text-graphite-silver text-sm leading-relaxed border-t border-white/10 pt-4">
