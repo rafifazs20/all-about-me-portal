@@ -136,38 +136,5 @@ export const reviews = [
         desc: 'Menunjukkan arah karier dan nilai hidup yang koheren.'
       },
     ]
-  },
-
-  {
-    id: 'uts5',
-    title: 'UTS 5 - My Personal Review',
-    average: 4.75,
-    summary: 'Evaluasi menyimpulkan bahwa profilmu seimbang antara kompetensi teknis, etika kerja, dan nilai sosial.',
-    criteria: [
-      { 
-        icon: <HiChatBubbleLeftRight className="text-blue-400" />,
-        name: 'Pemahaman Konsep Interpersonal',
-        score: 5, 
-        desc: 'Sangat baik, terlihat empati, kerja tim, dan refleksi relasional.'
-      },
-      { 
-        icon: <FaBrain className="text-green-400" />, 
-        name: 'Analisis Kritis Pesan',
-        score: 4, 
-        desc: 'Analisis tajam, bisa diperdalam dengan data atau contoh konkret proyek.'
-      },
-      { 
-        icon: <FaPencilAlt className="text-orange-400" />, 
-        name: 'Argumentasi (Logos)',
-        score: 5, 
-        desc: 'Logika dan alur argumen jelas dalam pernyataan misi dan narasi.'
-      },
-      { 
-        icon: <FaHeart className="text-pink-400" />,
-        name: 'Etos & Empati',
-        score: 5, 
-        desc: 'Etos kerja dan empati terlihat jelas di setiap bagian.'
-      },
-    ]
-  },
+  }
 ];
